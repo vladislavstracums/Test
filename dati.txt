@@ -1,0 +1,3 @@
+Vārds: Guntis
+Uzvārds: Ungurs
+Vecums: 22
